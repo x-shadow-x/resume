@@ -1,0 +1,79 @@
+* {
+  font-family: "΢���ź�" !important;
+  margin: 0 !important;
+}
+.clear {
+  clear: both;
+}
+a {
+  font-size: 0.8em !important;
+}
+p {
+  margin-bottom: 0px !important;
+}
+img {
+  margin-right: 15px !important;
+  margin-left: 25px !important;
+}
+blockquote {
+  font-style: normal !important;
+  padding-top: 20px !important;
+  padding-bottom: 15px !important;
+}
+.mar-top {
+  margin-top: 24px !important;
+}
+.controls > button {
+  outline: none;
+}
+#HeadImg {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+section span {
+  margin: 10px !important;
+  font-weight: lighter !important;
+}
+.x1 {
+  font-size: 0.7em !important;
+}
+.x2 {
+  font-size: 0.8em !important;
+}
+.x3 {
+  font-size: 0.9em !important;
+  margin-left: 4px !important;
+  margin-right: 4px !important;
+}
+.x4 {
+  font-size: 1.4em !important;
+  margin-left: 3px !important;
+  margin-right: 3px !important;
+}
+.textSize1 {
+  font-size: 0.7em !important;
+}
+.textSize2 {
+  font-size: 0.6em !important;
+}
+strong {
+  color: #13daec;
+}
+.textLeft {
+  text-align: left;
+}
+.textBottom {
+  vertical-align: bottom;
+}
+.left {
+  float: left !important;
+}
+.right {
+  float: right !important;
+}
+.box {
+  width: 800px !important;
+  margin: 0 auto !important;
+}
